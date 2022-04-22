@@ -1,8 +1,8 @@
-> # ColDog Studios Rick Bomb
+> # ColDog Studios & Sleep Security present: The Rick Bomb
 
 ## Disclaimer
 
-These scripts are **NOT** dangerous, just a harmless prank. ColDog Studios is **NOT** liable for any damage caused to a computer.
+These scripts are **NOT** dangerous, just a harmless prank. ColDog Studios & Sleep Security are **NOT** liable for any damage caused to a computer.
 
 ## Contributors
 
