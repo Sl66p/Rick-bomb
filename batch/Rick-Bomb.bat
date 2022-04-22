@@ -3,5 +3,5 @@
 @echo off
 :loop
 start chrome https://www.youtube.com/watch?v=dQw4w9WgXcQ
-vbs\vbs.vbs
+vbs.vbs
 goto loop
