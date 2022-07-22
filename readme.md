@@ -1,7 +1,7 @@
 > # Rick-Bomb Batch
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Sl66p/Rick-bomb?display_name=release)
-![GitHub all releases](https://img.shields.io/github/downloads/Sl66p/Rick-bomb/total)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/Sl66p/Rick-bomb)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/Sl66p/Rick-bomb/batch-release/total)
 ![GitHub issues](https://img.shields.io/github/issues/Sl66p/Rick-bomb)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Sl66p/Rick-bomb/batch)
 
