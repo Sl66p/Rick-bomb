@@ -1,8 +1,8 @@
 > # ColDog Studios & Sleep Security present: The Rick Bomb
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Sl66p/ColDog-Locker-Windows?display_name=release)
-![GitHub all releases](https://img.shields.io/github/downloads/Sl66p/ColDog-Locker-Windows/total)
-![GitHub issues](https://img.shields.io/github/issues/Sl66p/ColDog-Locker-Windows)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Sl66p/Rick-bomb?display_name=release)
+![GitHub all releases](https://img.shields.io/github/downloads/Sl66p/Rick-bomb/total)
+![GitHub issues](https://img.shields.io/github/issues/Sl66p/Rick-bomb)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Sl66p/Rick-Bomb)
 
 ---
